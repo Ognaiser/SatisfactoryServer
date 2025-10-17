@@ -210,6 +210,9 @@ dist/
 # Credentials file
 credentials.json
 
+#Dump file for the managed data
+static/data/dump.json
+
 # Database files (if you have local databases)
 *.db
 *.sqlite

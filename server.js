@@ -6,7 +6,8 @@ const app = express();
 const PORT = 8080;
 
 // Folder where your tiles were downloaded
-const TILES_DIR = path.resolve("./tiles");
+const TILES_DIR = path.resolve("./static/tiles");
+const DATA_DIR = path.resolve("./static/data");
 
 // Serve the map tiles
 app.get("/imgMap/gameLayer/Stable/:z/:x/:y.png", (req, res) => {
@@ -33,6 +34,66 @@ app.get("/imgMap/gameLayer/Stable/:z/:x/:y", (req, res) => {
   }
 
   res.sendFile(filePath);
+});
+
+app.get("/data/resources", (req, res) => {
+  const filePath = path.join(DATA_DIR, "resources.json");
+  
+  if (!fs.existsSync(filePath)) {
+    return res.status(404).json({ error: "Resources data not found" });
+  }
+  
+  try {
+    const data = JSON.parse(fs.readFileSync(filePath, "utf8"));
+    res.json(data);
+  } catch (error) {
+    res.status(500).json({ error: "Failed to read resources data" });
+  }
+});
+
+app.get("/data/collectibles", (req, res) => {
+  const filePath = path.join(DATA_DIR, "collectibles.json");
+  
+  if (!fs.existsSync(filePath)) {
+    return res.status(404).json({ error: "Collectibles data not found" });
+  }
+  
+  try {
+    const data = JSON.parse(fs.readFileSync(filePath, "utf8"));
+    res.json(data);
+  } catch (error) {
+    res.status(500).json({ error: "Failed to read collectibles data" });
+  }
+});
+
+app.get("/data/artifacts", (req, res) => {
+  const filePath = path.join(DATA_DIR, "artifacts.json");
+  
+  if (!fs.existsSync(filePath)) {
+    return res.status(404).json({ error: "Artifacts data not found" });
+  }
+  
+  try {
+    const data = JSON.parse(fs.readFileSync(filePath, "utf8"));
+    res.json(data);
+  } catch (error) {
+    res.status(500).json({ error: "Failed to read artifacts data" });
+  }
+});
+
+app.get("/data/wells", (req, res) => {
+  const filePath = path.join(DATA_DIR, "wells.json");
+  
+  if (!fs.existsSync(filePath)) {
+    return res.status(404).json({ error: "Wells data not found" });
+  }
+  
+  try {
+    const data = JSON.parse(fs.readFileSync(filePath, "utf8"));
+    res.json(data);
+  } catch (error) {
+    res.status(500).json({ error: "Failed to read wells data" });
+  }
 });
 
 // Optional: serve static test files (like an index.html if you add one)

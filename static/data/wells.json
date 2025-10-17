@@ -1,0 +1,1343 @@
+[
+  {
+    "name": "Nitrogen Gas (Impure)",
+    "purity": 1,
+    "location": {
+      "x": 213448.875,
+      "y": 132706.875,
+      "z": -317.35888671875
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Impure)",
+    "purity": 1,
+    "location": {
+      "x": 214659.703125,
+      "y": 137993.515625,
+      "z": -225.07778930664
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Normal)",
+    "purity": 2,
+    "location": {
+      "x": 215726,
+      "y": 132791,
+      "z": -285
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Normal)",
+    "purity": 2,
+    "location": {
+      "x": 218040.875,
+      "y": 134223.296875,
+      "z": -187.51669311523
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Normal)",
+    "purity": 2,
+    "location": {
+      "x": 125098.8671875,
+      "y": 254321.4375,
+      "z": 159.65127563477
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Normal)",
+    "purity": 2,
+    "location": {
+      "x": 126644,
+      "y": 253042,
+      "z": -372
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Normal)",
+    "purity": 2,
+    "location": {
+      "x": 226851.625,
+      "y": -311423.3125,
+      "z": 7905.6401367188
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Normal)",
+    "purity": 2,
+    "location": {
+      "x": 220214.53125,
+      "y": -310720.59375,
+      "z": 7879.724609375
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Normal)",
+    "purity": 2,
+    "location": {
+      "x": -249899.390625,
+      "y": -190381.265625,
+      "z": -1739.56640625
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -142911.4375,
+      "y": 118402.375,
+      "z": 14995.01953125
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -141750.375,
+      "y": 121997.734375,
+      "z": 15259.43359375
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -142779.1875,
+      "y": 120243.1875,
+      "z": 15174.9140625
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -145565.4375,
+      "y": 126028.375,
+      "z": 15439.01953125
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -147628.71875,
+      "y": 125722.8125,
+      "z": 15315.870117188
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -145715.25,
+      "y": 119442.078125,
+      "z": 15181.536132812
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -144341.71875,
+      "y": 124609.8125,
+      "z": 15387.870117188
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 84661.390625,
+      "y": 99202.7734375,
+      "z": 10049.584960938
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 86696.75,
+      "y": 99524.2890625,
+      "z": 10057.5859375
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 86027.5625,
+      "y": 109451.109375,
+      "z": 9962.3173828125
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 87916.734375,
+      "y": 102044.8671875,
+      "z": 10177.965820312
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 88734.25,
+      "y": 107722.671875,
+      "z": 9991.8251953125
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 83988.21875,
+      "y": 107803.265625,
+      "z": 10103.807617188
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 81638.90625,
+      "y": 103495.171875,
+      "z": 10183.618164062
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 83093.96875,
+      "y": 101821.15625,
+      "z": 10216.438476562
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 81664.46875,
+      "y": 106667.90625,
+      "z": 10241.166015625
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 87990.5,
+      "y": 105052.1171875,
+      "z": 10209.373046875
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 218169.40625,
+      "y": 137548.90625,
+      "z": -209.02577209473
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 216407.40625,
+      "y": 139499.90625,
+      "z": -212.02577209473
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 212492.40625,
+      "y": 138086.90625,
+      "z": -126.02577209473
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 211685.875,
+      "y": 133160.875,
+      "z": -247.35888671875
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 131025,
+      "y": 257428,
+      "z": 238
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 130516,
+      "y": 255126,
+      "z": -294
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 128216,
+      "y": 258878,
+      "z": 890
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 125104,
+      "y": 256475,
+      "z": 734
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 226487.78125,
+      "y": -313623.96875,
+      "z": 8160.9453125
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 225241.625,
+      "y": -309813.3125,
+      "z": 7875.6401367188
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 221263.53125,
+      "y": -312256.59375,
+      "z": 7931.724609375
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 221785.265625,
+      "y": -308346,
+      "z": 8244.490234375
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 223981.328125,
+      "y": -314008.65625,
+      "z": 7867.1240234375
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -251958.171875,
+      "y": -191565.8125,
+      "z": -1741.0864257812
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -253679.4375,
+      "y": -187151.625,
+      "z": -1240.98046875
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -254692.421875,
+      "y": -191072.625,
+      "z": -1581.9809570312
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -253968.71875,
+      "y": -189214.1875,
+      "z": -1460.1298828125
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -250936.71875,
+      "y": -184679.1875,
+      "z": -1457.1298828125
+    }
+  },
+  {
+    "name": "Nitrogen Gas (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -249449.390625,
+      "y": -188216.265625,
+      "z": -1739.56640625
+    }
+  },
+  {
+    "name": "Crude Oil (Impure)",
+    "purity": 1,
+    "location": {
+      "x": 264231.3125,
+      "y": 114518.453125,
+      "z": -77.76171875
+    }
+  },
+  {
+    "name": "Crude Oil (Impure)",
+    "purity": 1,
+    "location": {
+      "x": 271425.28125,
+      "y": 111504.1015625,
+      "z": -102.578125
+    }
+  },
+  {
+    "name": "Crude Oil (Impure)",
+    "purity": 1,
+    "location": {
+      "x": 267123.125,
+      "y": 115156.3125,
+      "z": -101.34375
+    }
+  },
+  {
+    "name": "Crude Oil (Impure)",
+    "purity": 1,
+    "location": {
+      "x": 264051.5625,
+      "y": 112280.796875,
+      "z": -66.40234375
+    }
+  },
+  {
+    "name": "Crude Oil (Impure)",
+    "purity": 1,
+    "location": {
+      "x": 267439.25,
+      "y": 110349.328125,
+      "z": -91.1640625
+    }
+  },
+  {
+    "name": "Crude Oil (Impure)",
+    "purity": 1,
+    "location": {
+      "x": 269500.40625,
+      "y": 115587.5859375,
+      "z": -83.2890625
+    }
+  },
+  {
+    "name": "Crude Oil (Impure)",
+    "purity": 1,
+    "location": {
+      "x": -261941.46875,
+      "y": 70474.5078125,
+      "z": -1159.0599365234
+    }
+  },
+  {
+    "name": "Crude Oil (Impure)",
+    "purity": 1,
+    "location": {
+      "x": -263341.78125,
+      "y": 72359.8046875,
+      "z": -1353.6193847656
+    }
+  },
+  {
+    "name": "Crude Oil (Normal)",
+    "purity": 2,
+    "location": {
+      "x": -40199.91015625,
+      "y": -4304.33203125,
+      "z": 25053.796875
+    }
+  },
+  {
+    "name": "Crude Oil (Normal)",
+    "purity": 2,
+    "location": {
+      "x": -41776.44921875,
+      "y": -9868.3759765625,
+      "z": 25142.185546875
+    }
+  },
+  {
+    "name": "Crude Oil (Normal)",
+    "purity": 2,
+    "location": {
+      "x": -43758.80078125,
+      "y": -8409.396484375,
+      "z": 25138.8828125
+    }
+  },
+  {
+    "name": "Crude Oil (Normal)",
+    "purity": 2,
+    "location": {
+      "x": -260625.765625,
+      "y": 72573.2265625,
+      "z": -1188.0451660156
+    }
+  },
+  {
+    "name": "Crude Oil (Normal)",
+    "purity": 2,
+    "location": {
+      "x": -264372.75,
+      "y": 76059.46875,
+      "z": -1296.5887451172
+    }
+  },
+  {
+    "name": "Crude Oil (Normal)",
+    "purity": 2,
+    "location": {
+      "x": -265378.25,
+      "y": 72493.3671875,
+      "z": -1342.2883300781
+    }
+  },
+  {
+    "name": "Crude Oil (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -38956.8359375,
+      "y": -10362.68359375,
+      "z": 25325.0703125
+    }
+  },
+  {
+    "name": "Crude Oil (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -36959.1328125,
+      "y": -7833.7783203125,
+      "z": 25170.345703125
+    }
+  },
+  {
+    "name": "Crude Oil (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -43238.79296875,
+      "y": -6518.9111328125,
+      "z": 25053.646484375
+    }
+  },
+  {
+    "name": "Crude Oil (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -266194.75,
+      "y": 75227.3671875,
+      "z": -1279.5224609375
+    }
+  },
+  {
+    "name": "Water (Impure)",
+    "purity": 1,
+    "location": {
+      "x": 185693.71875,
+      "y": -61072.1796875,
+      "z": 5431.7915039062
+    }
+  },
+  {
+    "name": "Water (Impure)",
+    "purity": 1,
+    "location": {
+      "x": 108262.0625,
+      "y": 145417.828125,
+      "z": 6486.4375
+    }
+  },
+  {
+    "name": "Water (Impure)",
+    "purity": 1,
+    "location": {
+      "x": 108080.53125,
+      "y": 142057.28125,
+      "z": 6632.44140625
+    }
+  },
+  {
+    "name": "Water (Impure)",
+    "purity": 1,
+    "location": {
+      "x": 9269.21875,
+      "y": 190201.78125,
+      "z": -10440.81640625
+    }
+  },
+  {
+    "name": "Water (Impure)",
+    "purity": 1,
+    "location": {
+      "x": 3582.625,
+      "y": 187082.125,
+      "z": -10305.05859375
+    }
+  },
+  {
+    "name": "Water (Impure)",
+    "purity": 1,
+    "location": {
+      "x": 313890.5,
+      "y": -287979.46875,
+      "z": 1212.3500976562
+    }
+  },
+  {
+    "name": "Water (Impure)",
+    "purity": 1,
+    "location": {
+      "x": 320535.3125,
+      "y": -291279.5625,
+      "z": 1229.5671386719
+    }
+  },
+  {
+    "name": "Water (Normal)",
+    "purity": 2,
+    "location": {
+      "x": 245033.625,
+      "y": -71845.8359375,
+      "z": 4617.3818359375
+    }
+  },
+  {
+    "name": "Water (Normal)",
+    "purity": 2,
+    "location": {
+      "x": 240788,
+      "y": -74885.2421875,
+      "z": 4801.5166015625
+    }
+  },
+  {
+    "name": "Water (Normal)",
+    "purity": 2,
+    "location": {
+      "x": 183610.296875,
+      "y": -59943.703125,
+      "z": 5585.63671875
+    }
+  },
+  {
+    "name": "Water (Normal)",
+    "purity": 2,
+    "location": {
+      "x": 182806.09375,
+      "y": -58147.62109375,
+      "z": 5535.63671875
+    }
+  },
+  {
+    "name": "Water (Normal)",
+    "purity": 2,
+    "location": {
+      "x": 103179.53125,
+      "y": 141524.9375,
+      "z": 6429.2578125
+    }
+  },
+  {
+    "name": "Water (Normal)",
+    "purity": 2,
+    "location": {
+      "x": 106354.59375,
+      "y": 139678.59375,
+      "z": 6603.41796875
+    }
+  },
+  {
+    "name": "Water (Normal)",
+    "purity": 2,
+    "location": {
+      "x": 100716.75,
+      "y": 149703.71875,
+      "z": 6494.40625
+    }
+  },
+  {
+    "name": "Water (Normal)",
+    "purity": 2,
+    "location": {
+      "x": 100829.71875,
+      "y": 143446.375,
+      "z": 6461.33984375
+    }
+  },
+  {
+    "name": "Water (Normal)",
+    "purity": 2,
+    "location": {
+      "x": 104641.21875,
+      "y": 149304.78125,
+      "z": 6456.18359375
+    }
+  },
+  {
+    "name": "Water (Normal)",
+    "purity": 2,
+    "location": {
+      "x": 99743.53125,
+      "y": 147302.9375,
+      "z": 6441.2578125
+    }
+  },
+  {
+    "name": "Water (Normal)",
+    "purity": 2,
+    "location": {
+      "x": -20347.14453125,
+      "y": 170787.4375,
+      "z": 6.9913640022278
+    }
+  },
+  {
+    "name": "Water (Normal)",
+    "purity": 2,
+    "location": {
+      "x": 314408.25,
+      "y": -292941.6875,
+      "z": 1253.2937011719
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 239763.4375,
+      "y": -71695.0625,
+      "z": 5256.6591796875
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 238332.1875,
+      "y": -69283.015625,
+      "z": 5403.4252929688
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 240891.96875,
+      "y": -66618.5625,
+      "z": 6182.6625976562
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 242801.65625,
+      "y": -71309.5390625,
+      "z": 5419.4106445312
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 183113.640625,
+      "y": -55532.7265625,
+      "z": 5512.052734375
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 188079.21875,
+      "y": -54423.78125,
+      "z": 5518.6484375
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 188862.859375,
+      "y": -57590.3046875,
+      "z": 5566.1953125
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 186318.421875,
+      "y": -52985.66015625,
+      "z": 5425.9799804688
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -15611.966796875,
+      "y": 172710.390625,
+      "z": 239.2142791748
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -20451.46875,
+      "y": 175654.28125,
+      "z": -99.55859375
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -17700.78125,
+      "y": 174876.78125,
+      "z": -70.81640625
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -16087.40625,
+      "y": 170350.59375,
+      "z": 351.41796875
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -23406.78515625,
+      "y": 174254.375,
+      "z": -437.7421875
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -22450.546875,
+      "y": 171714.265625,
+      "z": -27.8046875
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -111814.8125,
+      "y": 71121.2578125,
+      "z": 3061.7578125
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -104200.78125,
+      "y": 70976.78125,
+      "z": 2859.18359375
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -110139.15625,
+      "y": 75375.21875,
+      "z": 3196.484375
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -104692.40625,
+      "y": 73355.59375,
+      "z": 3096.41796875
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -107606.78125,
+      "y": 71069.375,
+      "z": 2912.2578125
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -111801.46875,
+      "y": 73189.28125,
+      "z": 3120.44140625
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -108478.46875,
+      "y": 77599.9375,
+      "z": 3709.2578125
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 9112.53125,
+      "y": 184869.9375,
+      "z": -10505.7421875
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 4933.53125,
+      "y": 184744.28125,
+      "z": -10424.55859375
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 7164.15625,
+      "y": 183858.4375,
+      "z": -10524.9453125
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 10342.59375,
+      "y": 187520.59375,
+      "z": -10473.58203125
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 5973.21484375,
+      "y": 189394.375,
+      "z": -10357.7421875
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 97653.21875,
+      "y": 82023.7734375,
+      "z": 10255.184570312
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 95981.59375,
+      "y": 85227.59375,
+      "z": 10170.418945312
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 98700.53125,
+      "y": 86231.9375,
+      "z": 10246.2578125
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 100208.75,
+      "y": 81507.7265625,
+      "z": 10271.408203125
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 101158.71875,
+      "y": 85561.3828125,
+      "z": 10250.338867188
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 102318.71875,
+      "y": 82976.3828125,
+      "z": 10270.338867188
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 314277.5,
+      "y": -289755.78125,
+      "z": 1267.8708496094
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 316513.25,
+      "y": -293371.6875,
+      "z": 1243.2937011719
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 316668.3125,
+      "y": -288089.65625,
+      "z": 1174.041015625
+    }
+  },
+  {
+    "name": "Water (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 319126.59375,
+      "y": -290062.65625,
+      "z": 1228.4166259766
+    }
+  },
+  {
+    "name": "Geyser (Impure)",
+    "purity": 1,
+    "location": {
+      "x": 39037,
+      "y": 218871,
+      "z": -5933
+    }
+  },
+  {
+    "name": "Geyser (Impure)",
+    "purity": 1,
+    "location": {
+      "x": 281822,
+      "y": -583,
+      "z": 2408
+    }
+  },
+  {
+    "name": "Geyser (Impure)",
+    "purity": 1,
+    "location": {
+      "x": 125777,
+      "y": -147081,
+      "z": 18842
+    }
+  },
+  {
+    "name": "Geyser (Impure)",
+    "purity": 1,
+    "location": {
+      "x": 191906,
+      "y": -242852,
+      "z": 22813
+    }
+  },
+  {
+    "name": "Geyser (Impure)",
+    "purity": 1,
+    "location": {
+      "x": 282899,
+      "y": 1745,
+      "z": 2550
+    }
+  },
+  {
+    "name": "Geyser (Impure)",
+    "purity": 1,
+    "location": {
+      "x": 134478.390625,
+      "y": -90977.9609375,
+      "z": 1984.0189208984
+    }
+  },
+  {
+    "name": "Geyser (Impure)",
+    "purity": 1,
+    "location": {
+      "x": 43763,
+      "y": -98725,
+      "z": 10544
+    }
+  },
+  {
+    "name": "Geyser (Impure)",
+    "purity": 1,
+    "location": {
+      "x": 92620,
+      "y": -31568.236328125,
+      "z": 5615.953125
+    }
+  },
+  {
+    "name": "Geyser (Impure)",
+    "purity": 1,
+    "location": {
+      "x": 49337,
+      "y": -54670,
+      "z": 5773
+    }
+  },
+  {
+    "name": "Geyser (Normal)",
+    "purity": 2,
+    "location": {
+      "x": -209862,
+      "y": -159644,
+      "z": -1769
+    }
+  },
+  {
+    "name": "Geyser (Normal)",
+    "purity": 2,
+    "location": {
+      "x": -92534,
+      "y": -67192,
+      "z": 15498
+    }
+  },
+  {
+    "name": "Geyser (Normal)",
+    "purity": 2,
+    "location": {
+      "x": -169793,
+      "y": 20466,
+      "z": 15329
+    }
+  },
+  {
+    "name": "Geyser (Normal)",
+    "purity": 2,
+    "location": {
+      "x": -213328,
+      "y": -160655,
+      "z": -1621
+    }
+  },
+  {
+    "name": "Geyser (Normal)",
+    "purity": 2,
+    "location": {
+      "x": -173000,
+      "y": 29532,
+      "z": 15333
+    }
+  },
+  {
+    "name": "Geyser (Normal)",
+    "purity": 2,
+    "location": {
+      "x": 40792,
+      "y": 211028,
+      "z": -5818
+    }
+  },
+  {
+    "name": "Geyser (Normal)",
+    "purity": 2,
+    "location": {
+      "x": -138869.890625,
+      "y": -57952.96484375,
+      "z": 3236.3615722656
+    }
+  },
+  {
+    "name": "Geyser (Normal)",
+    "purity": 2,
+    "location": {
+      "x": 70191,
+      "y": -14100,
+      "z": 13085
+    }
+  },
+  {
+    "name": "Geyser (Normal)",
+    "purity": 2,
+    "location": {
+      "x": 281106.34375,
+      "y": 8139.6376953125,
+      "z": 953.33203125
+    }
+  },
+  {
+    "name": "Geyser (Normal)",
+    "purity": 2,
+    "location": {
+      "x": 95894.5546875,
+      "y": -30845.921875,
+      "z": 5590
+    }
+  },
+  {
+    "name": "Geyser (Normal)",
+    "purity": 2,
+    "location": {
+      "x": 206903,
+      "y": 45592.015625,
+      "z": -1367
+    }
+  },
+  {
+    "name": "Geyser (Normal)",
+    "purity": 2,
+    "location": {
+      "x": -33373,
+      "y": -88036,
+      "z": -87
+    }
+  },
+  {
+    "name": "Geyser (Normal)",
+    "purity": 2,
+    "location": {
+      "x": 141833,
+      "y": -89090,
+      "z": 1558.6442871094
+    }
+  },
+  {
+    "name": "Geyser (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 94642,
+      "y": 218487,
+      "z": -154
+    }
+  },
+  {
+    "name": "Geyser (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 89458,
+      "y": 223800,
+      "z": 21
+    }
+  },
+  {
+    "name": "Geyser (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 50532,
+      "y": 44056,
+      "z": 23962
+    }
+  },
+  {
+    "name": "Geyser (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 152735,
+      "y": 211451,
+      "z": -8796
+    }
+  },
+  {
+    "name": "Geyser (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 44326,
+      "y": 48548,
+      "z": 23761
+    }
+  },
+  {
+    "name": "Geyser (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 46522,
+      "y": 53125,
+      "z": 23943
+    }
+  },
+  {
+    "name": "Geyser (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -142293.359375,
+      "y": -61383.31640625,
+      "z": 3018.4145507812
+    }
+  },
+  {
+    "name": "Geyser (Pure)",
+    "purity": 3,
+    "location": {
+      "x": 202233,
+      "y": 45027.015625,
+      "z": -1317
+    }
+  },
+  {
+    "name": "Geyser (Pure)",
+    "purity": 3,
+    "location": {
+      "x": -49789,
+      "y": -162415.90625,
+      "z": -1849
+    }
+  }
+]

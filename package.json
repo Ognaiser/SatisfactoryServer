@@ -1,20 +1,23 @@
 {
   "type": "module",
-  "name": "tileripper",
+  "name": "satisfactory-server",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Server for the Satisfactory Tour project",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "tiles": "node fetchTiles.js",
-    "data": "node fetchData.js",
+    "data": "tsx fetchData.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "satisfactory",
+    "node-server",
+    "web-server"
+  ],
+  "author": "ognaiser",
+  "license": "MIT",
   "dependencies": {
-    "@etothepii/satisfactory-file-parser": "^3.1.3",
     "dotenv": "^17.2.3",
     "express": "^5.1.0",
     "fs": "^0.0.1-security",
@@ -24,5 +27,10 @@
     "node-fetch": "^3.3.2",
     "p-limit": "^7.1.1",
     "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "@types/node": "^24.8.0",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
   }
 }
